@@ -1,20 +1,33 @@
-# Hi, I'm Fabio Lucas! 👋
+# 👋 Hi, I'm Fabio Lucas
 
-💻 IT Support | Data Operations | 🐍 Currently learning Python
+💻 IT Support | Data Operations | Python Learner
 
 📍 Madrid, Spain
 
+---
+
 ## About me
 
-I'm passionate about technology and continuous learning. Currently focused on developing my programming skills with Python while expanding my knowledge in IT Support and Data Operations.
+I'm an operations professional with experience in IT Support, incident management and data operations. Currently expanding my technical skills in Python while building practical projects and strengthening my knowledge of technology.
+
+---
 
 ## Currently learning
 
-- Python
-- Git & GitHub
-- Networking
-- Building projects with Python
+- 🐍 Python
+- 🌐 Networking
+- 🔧 Git & GitHub
 
-## Contact
+---
 
-- LinkedIn:  (linkedin.com/in/fabiolucasc)
+## Goals
+
+- Build practical Python projects
+- Continue growing in IT Support
+- Develop a strong portfolio on GitHub
+
+---
+
+## Connect with me
+
+💼 LinkedIn: linkedin.com/in/fabiolucasc
