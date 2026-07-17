@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fabio Lucas
 
-💻 IT Support | Data Operations | Python Learner
+💻 IT Support | Data Operations | Python Developer in Progress
 
 📍 Madrid, Spain
 
